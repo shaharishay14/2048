@@ -23,9 +23,11 @@ Smooth and responsive console-based controls.
 Random tile generation for unique challenges in every game.
 A running score tracker to monitor your progress.
 Clean and minimalist implementation for an optimized console experience.
-Can you conquer the grid and achieve the legendary 2048 tile? Challenge yourself to think ahead, merge wisely, and dominate the board!<img width="353" alt="Screenshot 2024-12-23 at 16 24 45" src="https://github.com/user-attachments/assets/34105fab-dee9-49e2-a6d1-8d17e5a02bad" />
-</br>
+Can you conquer the grid and achieve the legendary 2048 tile? Challenge yourself to think ahead, merge wisely, and dominate the board!
+<br />
+<img width="353" alt="Screenshot 2024-12-23 at 16 24 45" src="https://github.com/user-attachments/assets/34105fab-dee9-49e2-a6d1-8d17e5a02bad" />
+<br />
 <img width="285" alt="Screenshot 2024-12-23 at 16 25 06" src="https://github.com/user-attachments/assets/74733e14-f1ab-4523-aa5c-eb9ade3b72f7" />
 
-</br>
+<br />
 <img width="201" alt="Screenshot 2024-12-23 at 16 25 39" src="https://github.com/user-attachments/assets/8b6169fe-5eda-4d38-be3c-60211e11d5a2" />
